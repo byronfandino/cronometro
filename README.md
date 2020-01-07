@@ -1,2 +1,2 @@
 # cronometro
-Cronometro en HTML y CSS
+Cronometro en HTML y CSS3
